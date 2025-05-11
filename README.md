@@ -1,4 +1,7 @@
 # 👋 Hey there! I'm Priyanshu Dubey
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=380&height=45">
+</p>
 
 🎓 Student at **SAGE University**, currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** (AI & ML)  
 🚀 Passionate about AI, ML, and building real-world tech solutions  
