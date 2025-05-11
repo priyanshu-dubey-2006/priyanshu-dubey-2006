@@ -45,6 +45,8 @@
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-dubey-2006&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-dubey-2006&layout=compact&theme=radical)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
